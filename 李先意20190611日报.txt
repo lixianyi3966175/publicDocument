@@ -1,0 +1,10 @@
+﻿1）.上午完成github 推送日报信息
+1.熟悉了 git add . git commit git push 命令。
+2.抄写git --version help 命令单词每个10遍。
+
+
+2）下午的工作就是:
+1.安装sourceTree 并使用sourceTree拉取日报或者推送日报。
+如果这个sourceTree安装失败就使用翻墙软件 搜索安装方法。实在不行就先看视频。
+
+3）如果视频看完了就使用github下载springboot demo。
