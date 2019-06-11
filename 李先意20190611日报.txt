@@ -8,3 +8,4 @@
 如果这个sourceTree安装失败就使用翻墙软件 搜索安装方法。实在不行就先看视频。
 
 3）如果视频看完了就使用github下载springboot demo。
+3.1 休息复习
